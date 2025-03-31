@@ -14,3 +14,4 @@ def find_max(nums):
 nums = [5, 12, 8, 3, 25, 7]
 print("Maximum number:", find_max(nums))
 
+
